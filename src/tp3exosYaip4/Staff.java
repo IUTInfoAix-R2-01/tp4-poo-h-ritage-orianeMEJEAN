@@ -3,7 +3,6 @@ package tp3exosYaip4;
 
 class Staff extends Person
 {
-	private Person person;
 	private String school;
 	private double pay;
 	
