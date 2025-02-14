@@ -26,7 +26,6 @@ public class Person
         this.adress = ad;
     }
     
-    @Override
     public String toString() 
     {
         return "Person [name = " + name + ", adress = " + adress + "]";
