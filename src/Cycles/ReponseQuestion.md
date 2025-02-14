@@ -13,3 +13,19 @@
 	
 ## Exercice 8
 	En retirant le override, le code Java devrait marcher car Java ne nous force pas à l'avoir, cependant il y a des risques d'erreurs plus ou moins difficiles à régler. Faisant le test avec la VeloElect.
+	
+## Exercice 9
+	Toutes les méthodes pertinant dans les 2 class par Override sont :
+			- public String toString()
+			- public double getPuissance(double FrequenceCoupsDePedale)
+	Maic ces seulement pertinant de le faire dans VeloElect car il est une sous-class
+
+## Exercice 10
+	L'appel de super.getPuissance(FrequenceCoupsDePedale) dans la méthode VeloElect.getPuissance() permet de réutiliser le calcul de la puissance de Velo tout en ajoutant un ajustement spécifique à VeloElec.
+
+	
+	
+	
+	
+	
+	
